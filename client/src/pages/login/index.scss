@@ -1,0 +1,13 @@
+.index {
+  padding-top: 250px;
+  height: 100vh;
+  background: linear-gradient(to bottom, #fff, #fc453d);
+  .indexButton {
+    //   margin-top: 250px;
+    width: 90%;
+    border-radius: 20px;
+    color: white;
+    background: linear-gradient(to right, #fc453d, red);
+    height: 90px;
+  }
+}
